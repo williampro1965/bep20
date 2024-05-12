@@ -3,5 +3,5 @@
     "symbol": "FTB",
     "address": "0xdbA04a9518895f03e4981c09BeB5dA0a5af17610",
     "image": "https://raw.githubusercontent.com/williampro1965/bep20/main/Info/logo.png",
-    "logo": "https://raw.githubusercontent.com/williampro1965/bep20/main/Info/logo.png"
+    "decimals": 18
   }
